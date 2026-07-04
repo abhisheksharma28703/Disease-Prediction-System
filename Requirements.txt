@@ -1,0 +1,14 @@
+numpy
+
+pandas
+
+pickle-mixin
+
+Pillow
+
+scikit-learn
+scipy
+
+
+streamlit
+streamlit_option_menu
